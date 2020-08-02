@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap");
+$font: "Noto Sans TC",sans-serif ;
+
+$family-sans-serif:$font;
+
+$primary:#E83151;
+$success:#2DD881;
+$link:#445E93;
+$danger:#F93943;
+$warning:#FFC53A;
+$grey-dark:#4F5D75;
+$grey-light:#8F9EAE;
+$body-background-color:#CFDEE7;
+
+@import "../node_modules/bulma/bulma.sass";
+
+//https://coolors.co/e83151-cfdee7-4f5d75-ffc53a-2dd881-f93943-7eb2dd-445e93
