@@ -5,7 +5,7 @@ const app = new App({
 	props: {
 		meta:{
 			title:"神的語言翻譯器",
-			subtitle:"By:MaowMan v0.1 2020/7/20",
+			subtitle:"By:MaowMan v1.0 2020/9/13",
 			proxy:"https://cors-anywhere.herokuapp.com",
 			server:"https://us-central1-maow-alethia.cloudfunctions.net/download"
 		},
